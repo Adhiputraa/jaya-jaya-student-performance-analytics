@@ -85,7 +85,7 @@ Adapun pada dashboard merangkum jawaban dari permasalahan yang menjadi concern m
 - Jurusan apa saja yang paling banyak mahasiswa nya dan juga potensi dropout nya?
 - Berapa rata rata umur mahasiswa saat mendaftar pada Jaya Jaya Institut?
 
-🔗 Link Dashboard:
+🔗 Link Dashboard: https://public.tableau.com/app/profile/aditya.yoga.adhiputra5161/viz/MajuJayaInstitut/LaporanPerformaMahasiswaJayaJayaInstitut
 
 ## Menjalankan Sistem Machine Learning
 
